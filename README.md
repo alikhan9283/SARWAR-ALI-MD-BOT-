@@ -68,7 +68,9 @@ https://github.com/sarwarali3939/DARK-SILENCE-MD.git
 
 **`🔷 FORK 🍴 AND STAR ⭐ DARK-SILENCE-MD 🔷`**
 
-  <a href="https://github.com/sarwarali3939/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/alikhan9283/SARWAR-ALI-MD-BOT-/fork">
+  <img title="FORK" src="https://img.shields.io/badge/FORK--SARWAR--ALI--MD--BOT-indigo?style=for-the-badge&logo=github">
+</a>
   
 ### <br>02.  ❖ 𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈'𝐃 ❖
 
